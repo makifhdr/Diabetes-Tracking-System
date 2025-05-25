@@ -1,0 +1,16 @@
+#cell{
+	-fx-border-color: black; 
+	-fx-padding: 5px;
+}
+
+#evetLabel{
+	-fx-border-color: black; 
+	-fx-padding: 5px;
+	-fx-text-fill: green;
+}
+
+#hayirLabel{
+	-fx-border-color: black; 
+	-fx-padding: 5px;
+	-fx-text-fill: red;
+}
